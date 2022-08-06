@@ -1,0 +1,20 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+ 
+img{
+ box-shadow: 0 6px 8px 0 rgba(rgb(220, 25, 25), rgb(224, 133, 13), rgb(241, 226, 54), alpha)
+}
+
+img:hover{
+    border-radius: 100px;
+}
+
+#camera{
+    width: 200px;
+    height: 100px;
+    border-color: blueviolet;
+}
